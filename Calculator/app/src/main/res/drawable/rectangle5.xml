@@ -1,0 +1,9 @@
+<!-- drawable/rectangle_5.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="60dp"
+    android:height="35.56dp"
+    android:viewportWidth="60"
+    android:viewportHeight="35.56"
+    />
